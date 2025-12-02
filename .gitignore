@@ -44,3 +44,4 @@ fp-info-cache
 *.kicad_pcb
 *.kicad_pro
 *.kicad_sch
+sym-lib-table

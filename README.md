@@ -11,7 +11,7 @@ in your hardware designs.
 
 | Symbol | Footprint | 3D Model |
 |--------------|-----------------|----------------|
-| Not Available | Not Available | Not Available |
+| ![Symbol](./img/RYLR993_unit1.svg) | Not Available | Not Available |
 
 ### RYLR998
 
