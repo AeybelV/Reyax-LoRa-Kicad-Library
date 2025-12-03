@@ -45,3 +45,4 @@ fp-info-cache
 *.kicad_pro
 *.kicad_sch
 sym-lib-table
+fp-lib-table
