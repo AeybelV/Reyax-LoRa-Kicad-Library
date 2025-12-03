@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Reyax_LoRa:RYLR993"
 			(at 0 0 0)
 			(effects
 				(font
