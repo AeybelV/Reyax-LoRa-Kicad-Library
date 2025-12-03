@@ -11,7 +11,7 @@ in your hardware designs.
 
 | Symbol | Footprint | 3D Model |
 |--------------|-----------------|----------------|
-| ![Symbol](./img/RYLR993_unit1.svg) | ![Footprint](./img/RYLR993.svg) | ![3D Model](./img/RYLR993_3d.png) |
+| ![Symbol](./img/RYLR993_unit1.svg) | ![Footprint](./img/RYLR993.svg) | ![3D Model](./img/RYLR993_3d.svg) |
 
 ### RYLR998
 
