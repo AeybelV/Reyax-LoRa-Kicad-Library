@@ -375,4 +375,15 @@
 		(uuid "20d00e03-a2d2-43e8-b7cd-0acb6dea8181")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/RYLR993.stp"
+		(offset
+			(xyz -5.75 5.125 0.75)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
